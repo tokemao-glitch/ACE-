@@ -3,7 +3,7 @@
 
 ACE is designed to perform security testing efficiently and discreetly. It automatically connects to the Tor network in the background, ensuring anonymity during operations. It includes an intuitive menu with specialized tools! - **ONLY FOR WINDOWS** (for now)
 
-![LOCO](https://img.shields.io/github/stars/tokemao-glitch/tokemao) ![DOWNLOADS](https://img.shields.io/github/downloads/tokemao-glitch/tokemao/total?style=plastic) ![COMMITS](https://img.shields.io/github/commit-activity/w/tokemao-glitch/tokemao)
+![LOCO](https://img.shields.io/github/stars/tokemao-glitch/ACE-) ![DOWNLOADS](https://img.shields.io/github/downloads/tokemao-glitch/ACE-/total?style=plastic) ![COMMITS](https://img.shields.io/github/commit-activity/w/tokemao-glitch/ACE-)
  
 ## Features 💻
 
